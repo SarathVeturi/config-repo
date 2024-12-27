@@ -1,7 +1,7 @@
 build:
   version: "1.0"
 accounts:
-  message: "Sbank's accounts related Production support"
+  message: "Sbank's Production support related to accounts"
   contact-details:
     name: "Production Support Team"
     email: "{cipher}158c6c7b444fc2c020f425d7bc913c6969bb1dd04c36fc0cd5fd008ad008bda1810a42d000cd1e9bdae03d93827a3f12"

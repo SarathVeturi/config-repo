@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+accounts:
+  message: "Sbank's support related to accounts in QA"
+  contact-details:
+    name: "QA team"
+    email: "qa_team@sbank.com"
+  on-call-support:
+    - (91)98765-12345
+    - (91)12345-09876
+      
